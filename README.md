@@ -13,7 +13,7 @@ Using Java to analyze #capitalone Instagram posts.
 * Example: `javac -cp .:json-simple-1.1.1.jar *.java`
 
 ## Running
-* Main class is the entry point of the program and it requires 3 arguments: number of posts to retrive, instagram api token, and alchemy api token>
+* Main class is the entry point of the program and it requires 3 arguments: **number of posts to retrive**, **instagram api token**, and **alchemy api token** (in this order)
 * Example: `java -cp .:json-simple-1.1.1.jar Main 25 <instagram api token> <alchemy api token>`
 
 
