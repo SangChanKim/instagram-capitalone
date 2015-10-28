@@ -55,6 +55,8 @@ public class AlchemyAPIHandler {
                     throw new AlchemyAPIException("statusInfo: " + statusInfo + ". Invalid API key.");
                 } else if(statusInfo.equals("content-is-empty")) {
                     throw new AlchemyAPIException("statusInfo: " + statusInfo + ". Your text is empty.");
+		} else if(statusInfo.equals("daily-transaction-limit-exceeded")) {
+		    throw new AlchemyAPIException("statusInfo: " + statusInfo + ". Used up the free 1000 daily transactions");
                 } else {
                     throw new AlchemyAPIException("Unknown status info returned by AlchemyAPI.");
                 }
