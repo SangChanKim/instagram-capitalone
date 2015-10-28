@@ -1,13 +1,11 @@
 # instagram-capitalone-java
 Using Java to analyze #capitalone Instagram posts. 
 
-## Java
-Requires Java 1.6 or newer
-
-## Dependencies
-* JSON Simple 1.1.1 [Visit json-simple](https://code.google.com/p/json-simple/)
-* A valid Instagram API token [Visit Instagram Developer](https://instagram.com/developer/)
-* A valid Alchemy API token. [Visit AlchemyAPI](http://www.alchemyapi.com/)
+## Dependencies and Requirements
+* [Java 1.6 or newer](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [JSON Simple](https://code.google.com/p/json-simple/)
+* [A valid Instagram API token] (https://instagram.com/developer/)
+* [A valid Alchemy API token.](http://www.alchemyapi.com/)
 
 
 ## Build and run
