@@ -8,10 +8,13 @@ Using Java to analyze #capitalone Instagram posts.
 * [A valid Alchemy API token](http://www.alchemyapi.com/)
 
 
-## Build and run
-* Please make sure to add JSON simple as a jar dependency when building and running the source code 
+## Building
+* Please make sure to add JSON simple as a jar dependency when building 
+Example: `javac -cp .:json-simple-1.1.1.jar *.java`
+
+## Running
 * Main class is the entry point of the program and it requires 3 arguments
-`... Main <number of posts> <instagram api token> <alchemy api token>`
+Example: `java -cp .:json-simple-1.1.1.jar Main 25 <instagram api token> <alchemy api token>`
 
 
 
