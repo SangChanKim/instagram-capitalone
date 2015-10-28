@@ -1,5 +1,3 @@
-package io.github.sangchankim;
-
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
 

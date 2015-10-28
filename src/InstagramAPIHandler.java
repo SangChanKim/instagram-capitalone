@@ -1,5 +1,3 @@
-package io.github.sangchankim;
-
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
@@ -20,7 +18,7 @@ public class InstagramAPIHandler {
      * @param tag the hashtag to query
      * @param numOfPosts the total number of posts to query
      * @param token Instagram API token required for authentication
-     * @return a list of all processed io.github.sangchankim.Media objects
+     * @return a list of all processed Media objects
      * @throws InstagramAPIException
      */
     public static List<Media> getLatestPosts(String tag, int numOfPosts, String token) throws InstagramAPIException {

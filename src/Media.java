@@ -1,5 +1,3 @@
-package io.github.sangchankim;
-
 import java.util.ArrayList;
 
 /**

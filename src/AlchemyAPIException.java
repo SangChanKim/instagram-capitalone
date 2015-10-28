@@ -1,5 +1,3 @@
-package io.github.sangchankim;
-
 public class AlchemyAPIException extends Exception {
 
     public AlchemyAPIException(String message) {

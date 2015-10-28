@@ -1,5 +1,3 @@
-package io.github.sangchankim;
-
 /**
  * Represents a comment left on an Instagram media post
  * @author sangchankim

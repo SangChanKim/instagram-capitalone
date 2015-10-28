@@ -1,5 +1,3 @@
-package io.github.sangchankim;
-
 public class InstagramAPIException extends Exception {
 
     public InstagramAPIException(String message) {

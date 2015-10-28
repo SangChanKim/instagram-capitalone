@@ -1,5 +1,3 @@
-package io.github.sangchankim;
-
 /**
  * Represents an Instagram user
  * @author sangchankim
