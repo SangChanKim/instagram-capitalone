@@ -5,7 +5,7 @@ Using Java to analyze #capitalone Instagram posts.
 * [Java 1.6 or newer](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [JSON Simple](https://code.google.com/p/json-simple/)
 * [A valid Instagram API token] (https://instagram.com/developer/)
-* [A valid Alchemy API token.](http://www.alchemyapi.com/)
+* [A valid Alchemy API token](http://www.alchemyapi.com/)
 
 
 ## Build and run
