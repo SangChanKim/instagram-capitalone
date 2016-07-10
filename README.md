@@ -1,4 +1,4 @@
-# instagram-capitalone-java
+# instagram-capitalone
 Using Java to analyze #capitalone Instagram posts. 
 
 ## Dependencies and Requirements
